@@ -21,7 +21,14 @@ This Streamlit web app allows internal users to generate a master equipment data
 - ✅ Auto-sizes columns based on content
 - ✅ Applies clean border formatting to all data cells
 - ✅ Generates output with date+time stamped filename
-- ✅ Downloadable output file from the UI
+- ✅ Downloadable masterdata sheet output file from the UI
+- ✅ Uplaod Excel file with syscad input parameters in a stream table
+- ✅ Display the list of SysCAD inputs from the master
+- ✅ Let the user to map it with the respective parameters in SysCAD
+- ✅ Shows warning for equipment missing in the streamtable
+- ✅ Saves the mapping and populates the values accordingly
+- ✅ Rounds up the values to 2 decimal places and update units if needed
+- ✅ Downlaodable populated output file from the UI
 
 ---
 
